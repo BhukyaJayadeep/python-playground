@@ -1,20 +1,29 @@
-# Hurdle 1
+# 🏃‍♂️ Hurdles - Reeborg’s World Challenges  
 
-This project demonstrates the basic concepts of using functions to control a robot's movements. The code is designed to be run on the [Reeborg's World website](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json).
+This repository contains Python solutions for the **Hurdles challenges** from [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json). These challenges help improve problem-solving skills using loops, conditions, and functions in Python.  
 
-## Description
+## 📂 Challenge List  
 
-In this project, the robot is programmed to navigate a series of hurdles using custom-defined functions. The main functions used are `turn_right()`, `turn_square()`, and `turn_square1()`.
+### 1️⃣ Hurdle 1  
+- **Task:** Make Reeborg jump over a single hurdle and reach the goal.  
+- **Concepts Used:** `while` loops, `if` conditions  
+- 🔗 **Code:** [code1.py](code1.py)  
 
-## How to Run
+### 2️⃣ Hurdle 2  
+- **Task:** Jump over multiple hurdles with gaps between them.  
+- **Concepts Used:** `while` loops, `def` functions  
+- 🔗 **Code:** [code2.py](code2.py)  
 
-1. Visit the [Reeborg's World website](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json).
-2. Copy the code from your project.
-3. Paste it into the Python editor on the Reeborg's World website.
-4. Run the program to see the robot navigate the hurdles.
+### 3️⃣ Additional Solutions  
+- 🔗 **General Hurdle Solution:** [code.py](code.py)  
 
-## Functions
+## 🚀 How to Run the Code  
+1. Open [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json).  
+2. Select the appropriate **Hurdle challenge** from the menu.  
+3. Copy and paste the code from this repository into the editor.  
+4. Click **Run** to see Reeborg complete the challenge!  
 
-- `turn_right()`: Makes the robot turn right by turning left three times and then moving forward.
-- `turn_square()`: Makes the robot turn a full square (three left turns and a move forward).
-- `turn_square1()`: Combines `turn_right()` and `turn_square()` for a more complex movement.
+## 👨‍💻 About Me  
+I'm **Bhukya Jayadeep Naik**, a **DevOps Engineer | Python Developer | QA Automation Engineer** passionate about problem-solving and automation.  
+
+📌 **Follow me for more coding projects!** 🚀  
