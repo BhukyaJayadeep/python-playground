@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏃‍♂️ Hurdles - Reeborg’s World Challenges  
 
 This repository contains Python solutions for the **Hurdles challenges** from [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json). These challenges help improve problem-solving skills using loops, conditions, and functions in Python.  
@@ -29,4 +28,3 @@ I'm **Bhukya Jayadeep Naik**, a **DevOps Engineer | Python Developer | QA Automa
 
 📌 **Follow me for more coding projects!** 🚀  
 =======
->>>>>>> 95b1f4d (Hangman)
